@@ -1,0 +1,6 @@
+# Ignore model weights and large data
+*.pt
+*.pth
+*.bin
+__pycache__/
+.ipynb_checkpoints/
